@@ -1,7 +1,0 @@
-"Phrases"
-{
-	"GameName"
-	{
-		"en"		"One In The Chamber"
-	}
-}
